@@ -1,0 +1,10 @@
+from tkinter import*
+top=Tk()
+nm=Listbox(top)
+nm.insert(1,"python")
+nm.insert(2,"c++")
+nm.insert(3,"c")
+nm.insert(4,"php")
+nm.insert(5,"anyother")
+nm.pack()
+top.mainloop()

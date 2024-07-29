@@ -1,0 +1,7 @@
+the number of many data
+name			class			subject
+monika		m.sc			cs
+the number of many data
+name			class			subject
+monika		m.sc			cs
+welcome moni
